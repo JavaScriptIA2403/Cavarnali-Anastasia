@@ -114,4 +114,5 @@
    ## Использованные источники
 - [MoodleUSM](https://moodle.usm.md/mod/page/view.php?id=300750)
 - [Chat GPT](https://chatgpt.com/)
-- [JavaScript](https://learn.javascript.ru/) 
+- [JavaScript](https://learn.javascript.ru/)
+- [JavaScript](https://javascript.info/)
