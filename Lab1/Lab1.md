@@ -110,3 +110,8 @@
    console.log(9 == "9");   // true — строка "9" преобразуется в число 9 перед сравнением
    console.log(9 === "9");  // false — строгий оператор сравнения проверяет и тип данных, и значение
     ```
+
+   ## Использованные источники
+- [MoodleUSM](https://moodle.usm.md/mod/page/view.php?id=300750)
+- [Chat GPT](https://chatgpt.com/)
+- [JavaScript](https://learn.javascript.ru/) 
